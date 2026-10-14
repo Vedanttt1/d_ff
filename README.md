@@ -1,4 +1,6 @@
-## D-FF
+# D-FF
+
+## description
 Designed the basic D(Data)-flip flop. At every positive clock edge the data is triggered using verilog.
 ## feature
 single output
